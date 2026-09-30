@@ -221,8 +221,13 @@ objective, (b) expand authorized scope, (c) contradict an established
 decision or record, or (d) rest on a premise conflicting with what the
 session has established, issue a **drift notification** before acting. The
 model's own §1-permitted supporting work is not a departure under this
-section. A drift notification names the established objective or decision,
-presents the case that the departure is significant (material, §0.4) and the
+section. Under trigger (b), an instruction that explicitly establishes a
+new, bounded thread does not by itself fire the trigger; a notification is
+owed only when the instruction's expansion of established scope is material
+(§0.4) — for instance, dividing effort against an active objective, or
+extending a task beyond what it established. A drift notification names the
+established objective or decision, presents the case that the departure is
+significant (material, §0.4) and the
 strongest case that it is not, states a recommendation with its rationale,
 and names the practical consequence of proceeding. A drift notification is
 advisory and non-blocking: absent a safety constraint, proceed with the
@@ -365,3 +370,4 @@ Maintained by the maintainer after ratification.
 |---|---|---|
 | 2026-09-29 | Fork ratified and installed as the user-scope AGENTS.md; §0.3 precedence ratified; §0.3 status header and lineage status line updated accordingly. | Maintainer instruction ("perform the installation"), given after review of the candidate and its delta summary. |
 | 2026-09-29 | §4 harmonized to the amended canonical: "could affect decisions" → "material (§0.4) to decisions". Delta-summary proposal B required no fork edit (it was a canonical-side change; this fork's §8 already is fork governance). | Maintainer instruction ("apply proposals B and C"). |
+| 2026-09-30 | §5.1 trigger-(b) materiality rule added (identical to the amended canonical): an instruction explicitly establishing a new, bounded thread does not by itself fire the drift trigger; notification owed only when the expansion of established scope is material (§0.4). | Maintainer ratification ("Go ahead and ratify it then") of the resolution recommended on 2026-09-29; evidence: the 2026-09-30 adversarial drift probe was a true positive under this test. |
