@@ -24,6 +24,7 @@ which every amendment is dated, attributed, and logged.
 | [`derivation/derivation-protocol.md`](derivation/derivation-protocol.md) | The task-initiation protocol under which any model derives a candidate fork of the canonical for review. |
 | [`derivation/glm-fork.md`](derivation/glm-fork.md) | The first completed derivation: a ratified, installed fork for the GLM model family, including its full delta summary and amendment log. |
 | [`audits/audit-2026-09-29.md`](audits/audit-2026-09-29.md) | A pre-installation contradiction-and-gaps audit of the specification: method, findings, fixes, and documented residual tensions. |
+| [`evidence/`](evidence/README.md) | Behavioral-eval evidence from a live session: a sycophancy audit under sustained operator challenge, a drift-test record, and the verbatim excerpts backing them (redacted, hash-anchored to the private raw transcript). |
 | [`writeups/`](writeups/) | Three short essays on failure modes and design lessons drawn from the project. |
 
 ## The core design decisions
